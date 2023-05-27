@@ -1,3 +1,4 @@
+
 // 判断移动端设备
 browserRedirect();
 
