@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>建站目标</title>
+      <title>建站指南</title>
       <link href="/2023/05/27/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/"/>
       <url>/2023/05/27/%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</url>
       
-        <content type="html"><![CDATA[<h1>建站目标</h1><p>基础部分请看文档</p><blockquote><p>想要的效果：<br>1.樱花(已实现)：推荐Lete<br>2.看板娘（已实现）<br>3.一些基础特效：比如说打字、彩带等(已实现)<br>4.侧边栏的优化（已完成）：设置成中文等在（根目录下设置language: zh-CN，千万不要动下面的tag_dir: tags；archive_dir:<br>archives；category_dir: categories这几行配置！！）<br>5.标签的优化(待实现)：<br>5.页面加载的优化(待实现)：<br>6.播放器（待实现）：<br>7.文章封面待做：<br>8.加载动画：<br>9.留言(待实现)：需要一个服务器<br>10.页面可视化<br>11.文章置顶<br><code>可以开始写了，后面有时间再慢慢做</code></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h2 id="建站目标">建站目标</h2><ul><li>基础部分请看文档：<a href="https://butterfly.js.org/posts/21cfbf15/">https://butterfly.js.org/posts/21cfbf15/</a></li></ul><blockquote><p>想要的效果：<br>1.樱花(已实现)：推荐Lete<br>2.看板娘（已实现）<br>3.一些基础特效：比如说打字、彩带等(已实现)<br>4.侧边栏的优化（已完成）：设置成中文等在（根目录下设置language: zh-CN，千万不要动下面的tag_dir: tags；archive_dir: archives；category_dir: categories这几行配置！！）<br>5.标签的优化(待实现)：<br>5.页面加载的优化(待实现)：<br>6.播放器（已实现）：<a href="https://butterfly.js.org/posts/507c070f/">https://butterfly.js.org/posts/507c070f/</a><br>7.文章封面待做：<br>8.加载动画：<br>9.留言(待实现)：需要一个服务器，打算采用Twikoo<br>10.可视化<br>11.文章置顶<br><code>可以开始写了，后面有时间再慢慢做</code></p></blockquote>]]></content>
       
       
       <categories>
